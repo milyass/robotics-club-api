@@ -1,0 +1,53 @@
+{
+    "ar": {
+        "string.base": "يجب أن تكون عبارة",
+        "string.empty": "لا يسمح بأن تكون فارغة",
+        "string.max": "يجب أن يكون طول العبارة أقل من أو يساوي",
+        "string.min": "يجب ألا يقل طول العبارة عن",
+        "any.required": "مطلوب",
+        "any.only": "يجب أن يكون واحدًا من",
+        "array.base": "يجب أن تكون قائمة",
+        "array.max": "يجب أن تحتوي القائمة على أقل من أو يساوي",
+        "array.min": "يجب أن تحتوي القائمة على عنصر واحد على الأقل",
+        "boolean.base": "يجب أن يكون نوع البيانات المنطقية",
+        "date.base": "يجب أن يكون نوع التاريخ",
+        "date.format": "يجب أن يكون بتنسيق التاريخ ISO 8601",
+        "number.base": "يجب أن يكون رقما",
+        "number.integer": "يجب أن يكون عددًا صحيحًا",
+        "any.unknown": "غير مسموح"
+    },
+    "fr": {
+        "string.base": "doit être une chaîne de caractères",
+        "string.empty": "n'est pas autorisé à être vide",
+        "string.max": "la longueur de la phrase doit être inférieure ou égale à",
+        "string.min": "la longueur de la phrase doit être d'au moins",
+        "any.required": "est requis",
+        "any.only": "doit être l'un des",
+        "array.base": "doit être un tableau",
+        "array.max": "le tableau doit contenir un nombre inférieur ou égal à",
+        "array.min": "le tableau doit contenir au moins 1 élément",
+        "boolean.base": "doit être un booléen",
+        "date.base": "doit être une date valide",
+        "date.format": "doit être au format de date ISO 8601",
+        "number.base": "doit être un nombre",
+        "number.integer": "doit être un entier",
+        "any.unknown": "n'est pas autorisé"
+    },
+    "en": {
+        "string.base": "must be a string",
+        "string.empty": "is not allowed to be empty",
+        "string.max": "phrase length must be less than or equal to",
+        "string.min": "phrase length must be at least",
+        "any.required": "is required",
+        "any.only": "must be one of",
+        "array.base": "must be an array",
+        "array.max": "list must contain less than or equal to",
+        "array.min": "list must contain at least 1 items",
+        "boolean.base": "must be a boolean",
+        "date.base": "must be a valid date",
+        "date.format": "must be in ISO 8601 date format",
+        "number.base": "must be a number",
+        "number.integer": "must be an integer",
+        "any.unknown": "is not allowed"
+    }
+}
